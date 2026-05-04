@@ -12,11 +12,15 @@
 
 ###
 
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="center">Sabrina Carreiro ⋅ srchakya</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="center">Computer Engineer</p>
+
+###
+
+<p align="left">Hey there! 👋</p>
 
 ###
 
@@ -24,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
